@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CF2B5C5F-AFFA-46A7-BE44-3243A8386054}</ProjectGuid>
+    <ProjectGuid>{E6DD8E22-276F-4057-A623-B67AC7C07E36}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>calc</RootNamespace>
-    <AssemblyName>calc</AssemblyName>
+    <RootNamespace>calc2</RootNamespace>
+    <AssemblyName>calc2</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

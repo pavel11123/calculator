@@ -1,0 +1,9 @@
+C:\Documents\git\calculator\calc2\calc2\bin\Debug\calc2.exe.config
+C:\Documents\git\calculator\calc2\calc2\bin\Debug\calc2.exe
+C:\Documents\git\calculator\calc2\calc2\bin\Debug\calc2.pdb
+C:\Documents\git\calculator\calc2\calc2\obj\Debug\calc2.csprojResolveAssemblyReference.cache
+C:\Documents\git\calculator\calc2\calc2\obj\Debug\calc2.Properties.Resources.resources
+C:\Documents\git\calculator\calc2\calc2\obj\Debug\calc2.csproj.GenerateResource.Cache
+C:\Documents\git\calculator\calc2\calc2\obj\Debug\calc2.exe
+C:\Documents\git\calculator\calc2\calc2\obj\Debug\calc2.pdb
+C:\Documents\git\calculator\calc2\calc2\obj\Debug\calc2.Form1.resources

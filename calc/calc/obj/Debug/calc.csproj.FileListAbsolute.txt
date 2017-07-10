@@ -6,3 +6,4 @@ C:\Documents\git\calculator\calc\calc\obj\Debug\calc.Properties.Resources.resour
 C:\Documents\git\calculator\calc\calc\obj\Debug\calc.csproj.GenerateResource.Cache
 C:\Documents\git\calculator\calc\calc\obj\Debug\calc.exe
 C:\Documents\git\calculator\calc\calc\obj\Debug\calc.pdb
+C:\Documents\git\calculator\calc\calc\obj\Debug\calc.calculate.resources
